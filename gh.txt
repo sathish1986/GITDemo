@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Learning
+GIT commands
+>>>>>>> slave
