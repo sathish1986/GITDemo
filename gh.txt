@@ -1,4 +1,4 @@
-<<<<<<< HEAD
 Learning
 GIT commands
->>>>>>> slave
+here
+
